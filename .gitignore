@@ -1,0 +1,7 @@
+target/
+.target/
+server/.cache
+
+server/.classpath
+
+server/.project
